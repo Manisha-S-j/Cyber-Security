@@ -37,10 +37,6 @@ They ensure proper communication between devices by standardizing processes.
 
 ---
 
-## 📊 Diagram: Protocol Stack  
-
-![Protocol Stack](https://upload.wikimedia.org/wikipedia/commons/3/3b/InternetSocketBasicDiagram_zhtw.png)  
-
 ---
 
 ## 🔑 Importance of Protocols
@@ -52,4 +48,4 @@ They ensure proper communication between devices by standardizing processes.
 ---
 
 ## 🔗 Navigation
-[⬅️ Previous (02_Client_Server_Architecture)](02_Client-Server.md) | [Next ➡️ (04_IP_Address)](04_IP_Address.md)
+[⬅️ Previous ](02_Client-Server.md) | [Next ➡️ ](04_IP_Address.md)
