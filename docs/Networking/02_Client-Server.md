@@ -18,3 +18,5 @@ Client-Server Architecture is a network design where the **client** requests res
 
 
 ---
+
+[⬅️ Previous](01_Introduction.md) | [Next ➡️](03_Protocols.md)

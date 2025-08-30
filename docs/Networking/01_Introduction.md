@@ -36,3 +36,5 @@ Without networking, computers would remain **isolated machines** with no way of 
 - Networking = Connecting devices to share and communicate.  
 - Started with **ARPANET** → evolved into today’s Internet.  
 - Forms the foundation of **all modern communication systems**.
+
+[Next ➡️](02_Client_Server_Architecture.md)
