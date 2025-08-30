@@ -1,4 +1,4 @@
-![Cybersecurity Banner](Cyber-Security/docs/Cyber.png)
+![Cybersecurity Banner](Cyber.png)
 # 🛡️ Networking Notes for Cybersecurity
 
 Welcome! This site hosts my beginner-friendly notes for **Networking → Linux → Python** on my cybersecurity journey.  
