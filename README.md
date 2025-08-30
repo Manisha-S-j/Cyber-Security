@@ -5,7 +5,7 @@ This repository contains my structured notes on **Networking, Linux, and Python 
 The goal is to make cybersecurity concepts beginner-friendly, practical, and easy to revise.  
 If you're starting your journey, these notes will help you build a strong foundation 🚀  
 
-**View Notes Online**: [Cybersecurity Notes Website](https://your-username.github.io/your-repo-name)
+**View Notes Online**: [Cybersecurity Notes Website](https://manisha-s-j.github.io/Cyber-Security)
 
 ---
 
@@ -33,7 +33,7 @@ If you're starting your journey, these notes will help you build a strong founda
 
 ##  How to Use
 1. Browse the topics in the [`docs/`](docs) folder.  
-2. Visit the [GitHub Pages site](https://your-username.github.io/your-repo-name) for a clean view.  
+2. Visit the [GitHub Pages site](https://manisha-s-j.github.io/Cyber-Security) for a clean view.  
 3. Share with friends who are also learning cybersecurity!  
 
 ---
