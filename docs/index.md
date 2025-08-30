@@ -12,6 +12,7 @@ Everything is written to be **clear, concise, and practical**.
 
 - **Networking**
   - [01 — Introduction](Networking/01_Introduction.html)
+  - [02 — Client-Server Architecture](Networking/02_Client-Server.html)
 
 ---
 

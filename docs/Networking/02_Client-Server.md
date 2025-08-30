@@ -14,6 +14,6 @@ Client-Server Architecture is a network design where the **client** requests res
 - Improves security and management.  
 
 ## 📊 Diagram  
-![Client Server Architecture](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Client-server-model.svg/600px-Client-server-model.svg.png)
+![Client Server Architecture]("https://share.google/images/8wadh7yCTaArjVAl1")
 
 ---
