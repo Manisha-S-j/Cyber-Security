@@ -1,0 +1,19 @@
+# 02 Client-Server Architecture  
+
+## 📌 Definition  
+Client-Server Architecture is a network design where the **client** requests resources/services, and the **server** provides them.  
+
+## ⚙️ How It Works  
+1. Client sends request (e.g., opening a website in browser).  
+2. Server processes the request.  
+3. Response is sent back to client.  
+
+## 🔑 Key Points  
+- Centralized server.  
+- Multiple clients can connect.  
+- Improves security and management.  
+
+## 📊 Diagram  
+![Client Server Architecture](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Client-server-model.svg/600px-Client-server-model.svg.png)
+
+---
