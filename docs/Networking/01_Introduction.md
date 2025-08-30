@@ -37,4 +37,4 @@ Without networking, computers would remain **isolated machines** with no way of 
 - Started with **ARPANET** → evolved into today’s Internet.  
 - Forms the foundation of **all modern communication systems**.
 
-[Next ➡️](02_Client_Server_Architecture.md)
+[Next ➡️](02_Client-Server.md)
