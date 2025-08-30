@@ -14,6 +14,12 @@ Everything is written to be **clear, concise, and practical**.
   - [01 — Introduction](Networking/01_Introduction.html)
   - [02 — Client-Server Architecture](Networking/02_Client-Server.html)
   - [03 — Protocols](Networking/03_Protocols.html)
+  - [04 — IP-Address](Networking/04_IP_Address.html)
+  - [05 — Port_Number](Networking/05_Port_Number.html)
+  - [06 — Submarine_Cables](Networking/06_Submarine_Cables.html)
+  - [07 — LAN_MAN_WAN](Networking/07_LAN_MAN_WAN.html)
+  - [08 — Devices](Networking/08_Devices.html)
+
 
 ---
 
