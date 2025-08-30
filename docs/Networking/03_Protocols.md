@@ -47,5 +47,5 @@ They ensure proper communication between devices by standardizing processes.
 
 ---
 
-## 🔗 Navigation
+
 [⬅️ Previous ](02_Client-Server.md) | [Next ➡️ ](04_IP_Address.md)
