@@ -19,7 +19,7 @@ Everything is written to be **clear, concise, and practical**.
   - [06 — Submarine_Cables](Networking/06_Submarine_Cables.md)
   - [07 — LAN_MAN_WAN](Networking/07_LAN_MAN_WAN.md)
   - [08 — Devices](Networking/08_Devices.md)
-  - [09 — Topologies](Networking/09_Topologies.md)
+  - [09 — Topologies](Networking/09_Topologies.html)
 
 
 ---
