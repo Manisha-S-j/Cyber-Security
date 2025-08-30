@@ -1,4 +1,6 @@
-![Cybersecurity Banner](Cyber.png)
+<p align="center">
+  <img src="Cyber.png" alt="Cybersecurity Banner" width="70%">
+</p>
 # 🛡️ Networking Notes for Cybersecurity
 
 Welcome! This site hosts my beginner-friendly notes for **Networking → Linux → Python** on my cybersecurity journey.  
